@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home One || Kipso || Online Education Learning & LMS HTML Template</title>
+    <title>Quiz Competition </title>
     <link rel="apple-touch-icon" sizes="180x180" href="C:/xampp/htdocs/website/files/assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url(); ?>assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url(); ?>assets/images/favicons/favicon-16x16.png">
@@ -58,7 +58,7 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="index.html">
-                            <img src="<?php echo base_url();?>assets/images/logo-dark.png" class="main-logo" width="128" alt="Awesome Image" />
+                            <img src="<?php echo base_url();?>assets/images/logo.png" class="main-logo" width="128" alt="Awesome Image" />
                         </a>
                         <!-- <div class="header__social">
                             <a href="#"><i class="fab fa-twitter"></i></a>
